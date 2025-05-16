@@ -42,6 +42,18 @@ mv -v ./mullvad-browser ./AppDir && (
 	exec "${CURRENTDIR}/start-mullvad-browser" "$@"
 	KEK
 	chmod +x ./AppRun
+
+	# disable automatic updates
+	mkdir -p ./distribution
+	cat >> ./distribution/policies.json <<- 'KEK'
+	{
+	  "policies": {
+	    "DisableAppUpdate": true,
+	    "AppAutoUpdate": false,
+	    "BackgroundAppUpdate": false
+	  }
+	}
+	KEK
 )
 
 wget "$APPIMAGETOOL" -O ./appimagetool
