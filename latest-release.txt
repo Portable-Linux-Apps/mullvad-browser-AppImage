@@ -1,4 +1,5 @@
 https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/14.5.3/Mullvad_Browser-14.5.3-x86_64.AppImage
+https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250615-162508/Mullvad_Browser-14.5.3-x86_64.AppImage
 https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/14.5.2/Mullvad_Browser-14.5.2-x86_64.AppImage
 https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/14.5.1/Mullvad_Browser-14.5.1-x86_64.AppImage
 https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250608-162515/Mullvad_Browser-14.5.3-x86_64.AppImage
