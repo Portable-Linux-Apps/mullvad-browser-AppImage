@@ -1,15 +1,2 @@
 https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/14.5.4/Mullvad_Browser-14.5.4-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250708-162933/Mullvad_Browser-14.5.4-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250701-162857/Mullvad_Browser-14.5.4-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250629-162537/Mullvad_Browser-14.5.4-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/14.5.3/Mullvad_Browser-14.5.3-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250622-162548/Mullvad_Browser-14.5.3-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250615-162508/Mullvad_Browser-14.5.3-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/14.5.2/Mullvad_Browser-14.5.2-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/14.5.1/Mullvad_Browser-14.5.1-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250608-162515/Mullvad_Browser-14.5.3-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250601-162512/Mullvad_Browser-14.5.2-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250529-162741/Mullvad_Browser-14.5.2-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250522-162745/Mullvad_Browser-14.5.2-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250516-222555/Mullvad_Browser-14.5.1-x86_64.AppImage
-https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/download/20250516-035900/Mullvad_Browser-14.5.1-x86_64.AppImage
+Sat Jul 12 02:03:31 UTC 2025
