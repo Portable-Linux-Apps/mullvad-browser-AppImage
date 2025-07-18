@@ -1,4 +1,7 @@
-# mullvad-browser-AppImage
+# mullvad-browser-AppImage 🐧
+
+[![GitHub Downloads](https://img.shields.io/github/downloads/Portable-Linux-Apps/mullvad-browser-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/latest)
+[![CI Build Status](https://github.com//Portable-Linux-Apps/mullvad-browser-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/latest)
 
 This repo takes the [official mullvad binaries](https://github.com/mullvad/mullvad-browser/releases) and turns them into an AppImage. 
 
