@@ -43,6 +43,9 @@ mv -v ./mullvad-browser ./AppDir && (
 	KEK
 	chmod +x ./AppRun
 
+	# needed for some reason, otherwise it places the user profile in /tmp
+	echo "This is a packaged app." > ./is-packaged-app
+
 	# disable automatic updates
 	mkdir -p ./distribution
 	cat >> ./distribution/policies.json <<- 'KEK'
